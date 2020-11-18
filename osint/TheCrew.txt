@@ -1,0 +1,4 @@
+Hey, I am Mitchell (the only one not standing in the picture). I forgot the first names of people that are in this picture, could you help me out and try to find them? Please start from left side.
+
+Flag format is AFFCTF{Name1_Name2_Name3_Name4}
+This image is marked under CC PDM 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.
